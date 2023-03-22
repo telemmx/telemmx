@@ -2,6 +2,7 @@
 
 TELEONE is an integrated multi-account, which supports sending md/html messages, group user collection, batch pulling, automatic group chat, group sending and group building, batch registration, swiping message reading, account maintenance, account screening, And support the TG (telgrame) network marketing tool of dynamic agent.
 
+![软件主界面](https://github.com/teleone-tech/teleone/blob/main/tele-en.jpg?raw=true)
 
 ## 🔥1. Register/Login
 Manually log in to register accounts, import accounts, modify accounts in batches, withdraw from groups in batches, switch agents, receive official information, etc.
