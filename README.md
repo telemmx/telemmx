@@ -44,4 +44,6 @@
 
 
 🌐官網: https://teleone.tech
-🛒購買/下載，請加入頻道：https://t.me/teleone_tech
+🎥 YTB频道: [Youtube链接地址](https://www.youtube.com/@teleoneoc)
+
+官方頻道：https://t.me/teleone_tech
