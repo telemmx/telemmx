@@ -1,7 +1,7 @@
 # TELEONE
 什麼是TELEONE：TELEONE是一個集成多賬號，支持發送md/html消息，群組用戶採集，批量拉人，自動群聊，群發建群，批量註冊，刷消息閱讀量，養號，賬號篩活，並支持動態代理的TG(telgrame)網絡營銷工具。
 
-![軟件主界面](https://github.com/teleone-tech/teleone/blob/main/home.jpg?raw=true)
+![軟件主界面](https://github.com/teleone-tech/teleone/blob/main/HOME.png?raw=true)
 
 ## 🔥1. 註冊/登陸
   手動登陸註冊賬號，導入賬號，批量修改賬號，批量退群，代理切換，接收官方信息等
