@@ -48,7 +48,3 @@
 * 🌐官網: https://teleone.tech
 * 🎥 YTB频道: [Youtube链接地址](https://www.youtube.com/@teleoneoc)
 * 官方頻道：https://t.me/teleone_tech
-
-![联系方式](https://github.com/teleone-tech/teleone/blob/main/banner.png?raw=true)
-
-
