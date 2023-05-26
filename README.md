@@ -1,4 +1,4 @@
-![联系方式](https://github.com/teleone-tech/teleone/blob/main/screenshots/banner.png?raw=true)
+![联系方式](https://github.com/teleone-tech/teleone/blob/main/banner.png?raw=true)
 
 # TELEONE
 什麼是TELEONE：TELEONE是一個集成多賬號，支持發送md/html消息，群組用戶採集，批量拉人，自動群聊，群發建群，批量註冊，刷消息閱讀量，養號，賬號篩活，並支持動態代理的TG(telgrame)網絡營銷工具。
@@ -45,7 +45,10 @@
  * ❗️本軟件支持最新URL格式
 
 
-🌐官網: https://teleone.tech
-🎥 YTB频道: [Youtube链接地址](https://www.youtube.com/@teleoneoc)
+* 🌐官網: https://teleone.tech
+* 🎥 YTB频道: [Youtube链接地址](https://www.youtube.com/@teleoneoc)
+* 官方頻道：https://t.me/teleone_tech
 
-官方頻道：https://t.me/teleone_tech
+![联系方式](https://github.com/teleone-tech/teleone/blob/main/banner.png?raw=true)
+
+
