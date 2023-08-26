@@ -1,4 +1,4 @@
-![联系方式](https://github.com/telemmx/telemmx/blob/main/banner.png?raw=true)
+
 
 # TLEEMMX 猛犸象电报营销工具
 什麼是猛犸象电报营销工具：猛犸象电报营销工具是一個集成多賬號，支持發送md/html消息，群組用戶採集，批量拉人，自動群聊，群發建群，批量註冊，刷消息閱讀量，養號，賬號篩活，並支持動態代理的TG(telgrame)網絡營銷工具。
