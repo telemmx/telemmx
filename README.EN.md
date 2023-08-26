@@ -1,4 +1,4 @@
-![Contact](https://github.com/telemmx/telemmx/blob/main/banner.png?raw=true)
+
 
 # TLEEMMX 
 Mammoth Telegram Marketing Tool
