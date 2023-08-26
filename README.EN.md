@@ -1,10 +1,10 @@
-![Contact](https://github.com/telemmx/teleone/blob/main/banner.png?raw=true)
+![Contact](https://github.com/telemmx/telemmx/blob/main/banner.png?raw=true)
 
 # TLEEMMX 
 Mammoth Telegram Marketing Tool
 What is Mammoth Telegram Marketing Tool: Mammoth Telegram marketing tool is an integrated multi-account tool that supports sending md/html messages, group user collection, batch pull people, automatic group chat, group sending and group building, batch registration, and message reading volume , account maintenance, account screening, and support dynamic agent TG (telgrame) network marketing tools.
 
-![Software main interface](https://github.com/telemmx/teleone/blob/main/tele-en.jpg?raw=true)
+![Software main interface](https://github.com/telemmx/telemmx/blob/main/tele-en.jpg?raw=true)
 
 ## 1. Register/login
 
