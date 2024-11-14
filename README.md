@@ -7,7 +7,11 @@ TELEMMX 高效管理电报账号，自动化营销，助您轻松提升社交影
 ## 联系方式
 
 * 访问我们的网站： [点击访问](https://telemmx.com?from=github)
-* 访问我们的机器人 [点击打开](https://t.me/telemmx_bot)
+* 访问我们的机器人 [点击打开](https://t.me/telemmx_bot) 
+# 下载地址
+
+* https://t.me/telemmx_bot 机器人提供软件的试用及下载
+
 
 ## 电报账号登录
 
