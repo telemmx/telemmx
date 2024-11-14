@@ -1,8 +1,11 @@
 # TELEMMX 行銷專家
 
 - [English](README.md)
-- [中文介紹](README.zh.md)
+- [简体中文](README.zh.md)
 - [繁体中文](README.tw.md)
+- [Русский](README.ru.md)
+- [Tiếng Việt](README.vi.md)
+- [Türkçe](README.tr.md)
 
 ## 我們能為你做什麼？
 

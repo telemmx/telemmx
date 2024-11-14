@@ -2,7 +2,9 @@
 # TELEMMX Marketing Expert
 
 - [English](README.md)
-- [中文说明](README.zh.md)
+- [简体中文](README.zh.md)
+- [繁体中文](README.tw.md)
+- [Русский](README.ru.md)
 
 ## What Can We Do for You?
 
