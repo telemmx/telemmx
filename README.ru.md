@@ -4,6 +4,8 @@
 - [简体中文](README.zh.md)
 - [繁体中文](README.tw.md)
 - [Русский](README.ru.md)
+- [Tiếng Việt](README.vi.md)
+- [Türkçe](README.tr.md)
 
 # Что мы можем для вас сделать?
 

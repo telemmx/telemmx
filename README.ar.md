@@ -1,6 +1,11 @@
 # خبير التسويق TELEMMX
 
-
+- [English](README.md)
+- [简体中文](README.zh.md)
+- [繁体中文](README.tw.md)
+- [Русский](README.ru.md)
+- [Tiếng Việt](README.vi.md)
+- [Türkçe](README.tr.md)
 
 ## ماذا يمكننا أن نفعل من أجلك؟
 
