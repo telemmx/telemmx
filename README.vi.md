@@ -18,11 +18,23 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Truy cập trang web của chúng tôi: [Nhấp vào đây để truy cập](https://telemmx.com?from=github)
 * Truy cập bot của chúng tôi: [Nhấp vào đây để mở](https://t.me/telemmx_bot)
 
-# Liên kết tải xuống
+## Liên kết tải xuống
 
 * https://t.me/telemmx_bot cung cấp phiên bản dùng thử và tải xuống phần mềm
+Dưới đây là bản dịch sang tiếng Việt:  
+* https://www.telemmx.com Xem giao diện phần mềm trực tuyến  
 
-## Đăng nhập tài khoản Telegram
+# A. Giới thiệu tính năng  
+
+* Công cụ quản lý tài khoản Telegram toàn diện – giải pháp quản lý, thu thập, tiếp thị và tối ưu hóa hàng loạt.  
+
+* Quản lý tài khoản Telegram, tạo nhóm hàng loạt, thu thập người dùng, thêm hàng loạt thành viên vào nhóm, tự động gửi tin nhắn nhóm, tự động trò chuyện nhóm, tự động trò chuyện riêng, công cụ tiếp thị, đăng ký tài khoản Telegram, nuôi tài khoản thông minh, quản lý nhóm, tính năng thành viên Telegram, cài đặt hệ thống, gửi tin nhắn hàng loạt, giành tên người dùng, thay đổi số điện thoại liên kết.  
+
+* Cung cấp giải pháp quản lý tài khoản Telegram chuyên nghiệp với các tính năng bao gồm tạo nhóm hàng loạt, thu thập người dùng, thêm thành viên vào nhóm hàng loạt, gửi tin nhắn tự động, quản lý tiếp thị, đăng ký và nuôi tài khoản, quản lý trò chuyện nhóm thông minh và các tính năng thành viên. Phần mềm hỗ trợ thao tác hiệu quả, bảo mật cao, giao diện thân thiện, phù hợp với người dùng cần quản lý tài khoản Telegram hàng loạt, tối ưu hóa vận hành nhóm và nâng cao hiệu quả tiếp thị.  
+
+# B. Giải thích tính năng  
+
+## 01.Đăng nhập tài khoản Telegram
 
 * Tính năng này cung cấp quản lý toàn diện cho các tài khoản Telegram, đảm bảo người dùng có thể vận hành và duy trì nhiều tài khoản một cách hiệu quả.
 * Người dùng có thể dễ dàng xem trạng thái tài khoản, bao gồm thông tin tài khoản đã đăng ký và chưa đăng ký, hỗ trợ tìm kiếm tài khoản cụ thể bằng số điện thoại.
@@ -32,7 +44,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Giao diện phần mềm thân thiện với người dùng, hỗ trợ nhập và xuất tài khoản, giúp người dùng dễ dàng quản lý tài khoản hàng loạt. Cũng cung cấp các cài đặt tùy chỉnh như xóa tin nhắn tự động, tạo ảnh đại diện ngẫu nhiên.
 * Nhìn chung, đây là một công cụ quản lý tài khoản mạnh mẽ và linh hoạt, phù hợp cho người dùng cần quản lý nhiều tài khoản trực tuyến một cách hiệu quả.
 
-## Tạo nhóm hàng loạt
+## 02.Tạo nhóm hàng loạt
 
 * Tạo nhóm thường, kênh, nhóm, nhóm riêng tư hàng loạt, sao chép bot.
 * Nhập thông tin như chiều rộng, chiều dài và tên, một dòng cho mỗi nhóm, để tạo nhiều nhóm nhanh chóng.
@@ -44,14 +56,14 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Có thể gửi đến các công cụ tìm kiếm cụ thể như damosuoyinbot, qunzudaquan_bot và zh_secretary_bot.
 * Cải thiện hiệu quả và dễ sử dụng cho người dùng, tạo và quản lý nhóm một cách nhanh chóng và hiệu quả.
 
-## Thu thập người dùng
+## 03.Thu thập người dùng
 * Thu thập và hiển thị thông tin người dùng, có thể chuyển đổi giữa định dạng tên/tên người dùng, tên đầu tiên, tên cuối cùng, thời gian kết nối trực tuyến.
 * Thu thập các địa điểm gần đây: nhóm, danh bạ của tôi, người đã liên lạc, nhóm của tôi.
 * Có thể cài đặt thông tin vị trí địa lý để thu thập, khoảng cách (mét), thời gian lưu lại (giây).
 * Nhập liên kết nhóm để thu thập, có thể là người dùng hoạt động gần đây, người dùng (không bao gồm thành viên và quản trị viên), chỉ chủ sở hữu và quản trị viên nhóm, tất cả người dùng (chế độ tham lam).
 * Lọc thành viên theo từ khóa trong các nhóm riêng tư.
 
-## Thu thập người dùng V2
+## 04.Thu thập người dùng V2
 
 * Thu thập liên kết nhóm: người dùng có thể nhanh chóng thu thập thông tin thành viên nhóm bằng cách nhập liên kết nhóm, tăng hiệu quả.
 * Chức năng lọc tự động: hệ thống tự động lọc bot và người dùng bị cấm, đảm bảo hiệu quả của kết quả thu thập.
@@ -61,7 +73,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Lọc từ khóa: hỗ trợ lọc thành viên theo từ khóa, người dùng có thể nhanh chóng tìm thấy thành viên mục tiêu theo nhu cầu cụ thể, tăng độ chính xác của việc thu thập.
 * Tính năng này được thiết kế để cung cấp trải nghiệm thu thập thành viên nhóm hiệu quả và dễ dàng cho người dùng.
 
-## Thu thập kênh
+## 05.Thu thập kênh
 
 * Thu thập kênh/nhóm tự động thông qua công cụ tìm kiếm.
 * Có thể hiển thị dưới định dạng tên hoặc liên kết.
@@ -69,7 +81,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ thu thập thông tin nhóm trong khoảng cách nhất định.
 * Có thể cài đặt thông tin ngôn ngữ để thu thập.
 
-## Thêm thành viên vào nhóm hàng loạt
+## 06.Thêm thành viên vào nhóm hàng loạt
 
 * Có thể thu thập thông tin của nhiều nhóm có thể thu thập cùng lúc và sau đó thêm tất cả vào nhóm của bạn hoặc nhóm khách hàng.
 * Có thể cài đặt thu thập toàn bộ hoặc một phần trong quá trình thu thập.
@@ -78,14 +90,14 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Xác định số lượng tài khoản để thêm thành viên vào một nhóm, hoàn thành và thoát có nghĩa là sau khi thêm thành viên, tự động thoát khỏi nhóm.
 * Xác định chế độ danh bạ có thêm thành viên dưới dạng danh bạ hay không.
 
-## Thêm thành viên vào nhóm hàng loạt V2
+## 07.Thêm thành viên vào nhóm hàng loạt V2
 
 * Có thể thêm thành viên vào nhóm bằng tên người dùng hoặc số điện thoại.
 * Có thể cài đặt thoát khỏi nhóm sau khi thêm thành viên.
 * Có thể cài đặt giới hạn số người hoạt động cùng lúc.
 * Có thể cài đặt dừng ngay lập tức nếu tài khoản bị cấm, giảm thiểu tổn thất tài khoản.
 
-## Thêm thành viên vào nhóm hàng loạt V3
+## 08.Thêm thành viên vào nhóm hàng loạt V3
 
 * Chế độ này là chế độ quản trị viên, trước tiên cài đặt một số thành viên làm quản trị viên, sau đó thêm người dùng mới vào nhóm thông qua quản trị viên.
 * Khoảng thời gian thêm thành viên cho tài khoản cá nhân (giây) để cài đặt thời gian chờ giữa các lần thêm thành viên, xác định số lượng thành viên có thể thêm bởi một tài khoản trong thời gian cụ thể.
@@ -93,7 +105,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Xác định số lượng tài khoản để thêm thành viên vào một nhóm, hoàn thành và thoát có nghĩa là sau khi thêm thành viên, tự động thoát khỏi nhóm.
 * Xác định chế độ danh bạ có thêm thành viên dưới dạng danh bạ hay không.
 
-## Gửi tin nhắn hàng loạt
+## 09.Gửi tin nhắn hàng loạt
 
 * Tham gia nhóm, gửi tin nhắn một cho một đến người dùng trong nhóm.
 * Có thể cài đặt tin nhắn giả trước và sau đó chỉnh sửa thành tin nhắn thực mà bạn muốn gửi.
@@ -109,7 +121,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ ghim tin nhắn đã gửi cho người dùng (phiên bản V2).
 * Cài đặt số lượng tin nhắn gửi bởi tài khoản cá nhân (phiên bản V2).
 
-## Trò chuyện nhóm tự động
+## 10.Trò chuyện nhóm tự động
 
 * Có thể cài đặt nội dung tin nhắn theo yêu cầu của bạn.
 * Hỗ trợ định dạng nội dung văn bản: văn bản/Markdown/HTML, hình ảnh, âm thanh, video, v.v.
@@ -118,7 +130,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Có thể cài đặt gửi tin nhắn ngẫu nhiên bởi các tài khoản.
 * Sau khi cập nhật TG, tin nhắn gửi qua Telegram được lấy nhanh hơn để trả lời.
 
-## Gửi tin nhắn hàng loạt tự động
+## 11.Gửi tin nhắn hàng loạt tự động
 
 * Có thể gửi tin nhắn đến nhiều nhóm/kênh cùng lúc.
 * Hỗ trợ gửi tin nhắn giả trước và sau đó chỉnh sửa thành tin nhắn bình thường.
@@ -132,7 +144,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Đã thêm gửi tin nhắn ngẫu nhiên vào nhóm (phiên bản V2).
 * Hiển thị tên nhóm, số lượng thành viên, số lượng đã tham gia (phiên bản V3).
 
-## Tham gia nhóm hàng loạt/Xác minh nhóm
+## 12.Tham gia nhóm hàng loạt/Xác minh nhóm
 
 * Hỗ trợ tham gia nhóm hàng loạt để tăng độ phổ biến của nhóm.
 * Hỗ trợ cài đặt tham gia ngẫu nhiên vào nhóm.
@@ -141,7 +153,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ cài đặt phân phối nhóm đều, như 500 tài khoản trên 5000 nhóm, 10 tài khoản mỗi nhóm.
 * Hỗ trợ thêm bot hàng loạt, và giúp bạn nhấp vào /start để tăng độ phổ biến của bot (phiên bản V2).
 
-## Trả lời tự động trong nhóm
+## 13.Trả lời tự động trong nhóm
 
 * Giám sát tin nhắn trong nhóm theo thời gian thực và trả lời tự động cho tin nhắn theo từ khóa.
 * Hỗ trợ giám sát tin nhắn từ người dùng cụ thể trong nhóm.
@@ -151,7 +163,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ bỏ qua quản trị viên và bot (phiên bản V2).
 * Có thể cài đặt tỷ lệ trả lời (phiên bản V2).
 
-## Trò chuyện riêng tự động
+## 14.Trò chuyện riêng tự động
 
 * Có thể cài đặt trả lời nội dung cụ thể cho người dùng riêng.
 * Có thể cài đặt trả lời nội dung cho tất cả người dùng riêng tự động.
@@ -160,16 +172,16 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Có thể giám sát tất cả tin nhắn của người dùng (phiên bản V2).
 * Hỗ trợ bắt đầu trò chuyện riêng tự động với người dùng trong nhóm theo từ khóa (phiên bản V2).
 
-## Tiếp thị tự động
+## 15.Tiếp thị tự động
 
 * Bao gồm gửi tin nhắn hàng loạt tự động, trả lời, trò chuyện riêng trong một tính năng, không cần chuyển đổi giữa các chương trình thường xuyên.
 
-## Tăng lượt xem
+## 16.Tăng lượt xem
 
 * Nhập liên kết tin nhắn và số lượt xem mong muốn để hoàn thành quá trình.
 * Chúng tôi cũng hỗ trợ bình luận bằng biểu tượng cảm xúc.
 
-## Đồng bộ hóa nhóm
+## 17. Đồng bộ hóa nhóm
 
 * Đồng bộ hóa toàn bộ nội dung của nhóm Telegram với kênh của bạn.
 * Hỗ trợ đồng bộ hóa hình ảnh/video/hình ảnh và video/tất cả nội dung.
@@ -177,7 +189,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ chế độ gửi trực tiếp.
 * Hỗ trợ cài đặt tần suất gửi.
 
-## Lọc tài khoản
+## 18.Lọc tài khoản
 
 * Hỗ trợ nhập định dạng văn bản để lọc.
 * Hỗ trợ cài đặt số lượng luồng để chạy lọc đồng thời.
@@ -186,7 +198,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ tìm kiếm và lọc theo trạng thái tài khoản (phiên bản V2).
 * Hỗ trợ chế độ danh bạ để thêm bạn bè và kiểm tra sự tồn tại (phiên bản V2).
 
-## Đăng ký tài khoản
+## 19.Đăng ký tài khoản
 
 * Tích hợp với nhiều nền tảng nhận tin nhắn như firefox.fun, worldcode.win, twimar.com, qisms.com, 150sms.com, jiemapingtai.com, sms-activate.guru, sms-man.com, smshub.org, 5sim.net, vak-sms.com, acloudsms.com, tgtool.org, wap.lxy2.com, api.mwze167.com, zqdql.svenkvint.com, ai.ddy00.com, uomsg.com, pomelo-cloud.com, ijiema.com, 24sms7.com, a9sms.com và các nền tảng khác.
 * Hỗ trợ đăng nhập bằng phương pháp nhận tin nhắn văn bản.
@@ -202,7 +214,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Dịch vụ cung cấp tài khoản Gmail tích hợp (có phí).
 * Dịch vụ xác minh thiết bị thực và phát hiện vượt qua tích hợp (có phí).
 
-## Quản lý tài khoản thông minh
+## 20.Quản lý tài khoản thông minh
 
 * Hỗ trợ quản lý nhiều tài khoản trong nhiều nhóm cùng lúc.
 * Hỗ trợ cài đặt tin nhắn tùy chỉnh, hỗ trợ gói biểu tượng cảm xúc.
@@ -212,7 +224,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ thao tác định vị, hỗ trợ định vị ngẫu nhiên.
 * Hỗ trợ đọc tin nhắn và trả lời để duy trì trạng thái kết nối trực tuyến.
 
-## Thu thập tin nhắn nhóm
+## 21.Thu thập tin nhắn nhóm
 
 * Hỗ trợ thu thập người dùng bắt đầu bằng @xxx.
 * Hỗ trợ các trang web bắt đầu bằng t.me.
@@ -222,12 +234,12 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ lấy bằng biểu thức chính quy tùy chỉnh.
 * Hỗ trợ thu thập theo từ khóa.
 
-## Quản lý thành viên (Pro)
+## 22.Quản lý thành viên (Pro)
 
 * Hỗ trợ nhập thẻ tín dụng để mở thành viên Telegram.
 * Hỗ trợ liên kết quà tặng để kích hoạt thành viên.
 
-## Quản lý nhóm hàng loạt (Pro)
+## 23.Quản lý nhóm hàng loạt (Pro)
 
 * Cập nhật thông tin kênh/nhóm/bot hàng loạt (tên, mô tả, chiều rộng/chiều dài).
 * Hỗ trợ bật và tắt chế độ tắt tiếng trong nhóm hàng loạt.
@@ -240,7 +252,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Hỗ trợ cập nhật thông tin bot hàng loạt.
 * Hỗ trợ thay đổi tin nhắn nhóm bằng ID cụ thể, hoặc liên kết, hoặc nhiệm vụ, hoặc ID cụ thể.
 
-## Báo cáo tin nhắn rác hàng loạt (Pro)
+## 24.Báo cáo tin nhắn rác hàng loạt (Pro)
 
 * Báo cáo tin nhắn rác.
 * Báo cáo ma túy bất hợp pháp.
@@ -251,26 +263,26 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Báo cáo nội dung 18+.
 * Báo cáo nội dung có bản quyền.
 
-## Chiếm dụng tên người dùng (Pro)
+## 25.Chiếm dụng tên người dùng (Pro)
 
 * Nếu ai đó mất tên người dùng, bạn có thể nhanh chóng đăng ký nó bằng tính năng này.
 * Hỗ trợ ba định dạng: kênh/nhóm/người dùng.
 * Có thể cài đặt khoảng thời gian kiểm tra, để có tên người dùng mong muốn nhanh hơn.
 
-## Thay đổi liên kết số điện thoại (Pro)
+## 26.Thay đổi liên kết số điện thoại (Pro)
 
 * Hỗ trợ liên kết số điện thoại hiện tại với số mới.
 * Hỗ trợ nhận tin nhắn tự động bằng nền tảng nhận tin nhắn thứ hai.
 * Hiện tại hỗ trợ firefox.fun, vak-sms.com, sms-activate.guru và phương pháp văn bản.
 
-## Tính năng thành viên Telegram hàng loạt (Pro)
+## 27.Tính năng thành viên Telegram hàng loạt (Pro)
 
 * Cài đặt tin nhắn chào mừng cho thành viên.
 * Cài đặt tin nhắn cho thành viên ngoài giờ làm việc.
 * Có thể xóa cài đặt hiện tại.
 * Hỗ trợ định dạng văn bản/Markdown/HTML.
 
-## Cài đặt hệ thống toàn cầu
+## 28.Cài đặt hệ thống toàn cầu
 
 * Có thể cài đặt đăng nhập tự động sau khi chạy phần mềm.
 * Có thể bật bộ nhớ đệm.
@@ -286,7 +298,7 @@ Chuyên gia tiếp thị TELEMMX cung cấp một loạt các công cụ mạnh 
 * Có thể cài đặt bật nhật ký tệp văn bản.
 * Có thể bật nhật ký giao diện đơn giản để giảm tắc nghẽn tin nhắn.
 
-## Proxy hệ thống
+## 29.Proxy hệ thống
 
 * Hỗ trợ proxy SOCKS 5 đã được bật.
 * Hỗ trợ proxy HTTP đã được bật.

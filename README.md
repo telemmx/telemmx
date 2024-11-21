@@ -1,4 +1,3 @@
-
 # TELEMMX Marketing Expert
 
 - [English](README.md)
@@ -19,11 +18,24 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Visit our website: [Click to visit](https://telemmx.com?from=github)
 * Access our bot [Click to open](https://t.me/telemmx_bot)
 
-# Download Link
+## Download Link
 
 * [Download via Telegram bot](https://t.me/telemmx_bot)
+* https://www.telemmx.com  View Soft View
 
-## Telegram Account Login
+Sure! Here’s the translation of the provided text:
+
+# A. Function Introduction
+
+* Comprehensive Telegram account management tool - solutions for batch management, data collection, marketing, and optimization.
+
+* Telegram account management, batch group creation, user collection, batch adding users to groups, automatic mass messaging, automatic group chatting, automatic private messaging, marketing tools, Telegram account registration, intelligent account nurturing, group management, Telegram membership features, system settings, batch message sending, username grabbing, and changing the bound phone number.
+
+* Provides professional Telegram account management solutions, including batch group creation, user collection, batch adding users to groups, automatic message sending, marketing management, account registration and nurturing, intelligent group chat management, and membership features. The software supports efficient operations, has high security, and features a user-friendly interface, making it suitable for users who need to manage Telegram accounts in bulk, optimize group operations, and enhance marketing efficiency.
+
+# B. Function Description
+
+## 01.Telegram Account Login
 
 * This feature provides comprehensive Telegram account management to ensure users can efficiently operate and maintain multiple accounts.
 * Users can easily check the account status, including logged-in and non-logged-in account information, and search for specific accounts by phone number.
@@ -33,7 +45,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * The user interface is user-friendly, supporting importing and exporting accounts for batch management. It also offers personalized settings like automatic message deletion and random avatar generation.
 * Overall, the software is a powerful and flexible account management tool, ideal for users needing efficient management of multiple online accounts.
 
-## Bulk Creation
+## 02.Bulk Creation
 
 * Bulk create regular groups, channels, group chats, and private groups, as well as copy bots.
 * Enter dimensions, longitude, and names to quickly create multiple groups.
@@ -45,14 +57,14 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Messages can be submitted to specific search engines, such as damosuoyinbot, qunzudaquan_bot, and zh_secretary_bot.
 * Improves user operation efficiency and experience, enabling fast and efficient group creation and management.
 
-## User Collection
+## 03.User Collection
 * Collect and display user information, with options to switch between formats like username/first name/last name/online time.
 * Collect users nearby based on location: groups, my contacts, people I’ve interacted with, my private groups.
 * Set geolocation data for collection, with options for distance (in meters) and duration (in seconds).
 * Input a group link for collection, and collect recent active users, users (excluding bots and admins), group owners, admins, or all users (greedy mode).
 * Filter crowd members based on private group keywords.
 
-## User Collection V2
+## 04.User Collection V2
 
 * Group link collection: Quickly and efficiently collect group members' information by inputting a group link.
 * Auto-filtering feature: The system automatically filters out bots, banned users, and restricted users to ensure valid collection results.
@@ -62,7 +74,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Keyword filtering: Quickly find target members based on specific keywords, improving the accuracy of collection.
 * This feature is designed to provide users with an efficient and convenient group member collection experience.
 
-## Channel Collection
+## 05.Channel Collection
 
 * Automatically search and collect channels/groups from search engines.
 * Collect based on names or links.
@@ -70,7 +82,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Supports collecting groups within a certain proximity or a specified radius.
 * Language filtering for collected groups.
 
-## Bulk Add Members to Groups
+## 06.Bulk Add Members to Groups
 
 * Collect information from multiple groups and add them to your own or clients' groups in bulk.
 * During collection, users can choose to collect all members or a portion of members.
@@ -80,14 +92,14 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Includes options to automatically leave the group after adding members.
 * The contact mode determines whether the members are added as contacts.
 
-## Bulk Add Members to Groups V2
+## 07.Bulk Add Members to Groups V2
 
 * Add members by username or phone number.
 * Set the option to automatically leave the group after adding members.
 * Configure limits on the number of members running simultaneously.
 * If an account is blocked, set to stop immediately to reduce account loss.
 
-## Bulk Add Members to Groups V3
+## 08.Bulk Add Members to Groups V3
 
 * Admin mode: Set specific members as administrators, and then use them to add new users to the group.
 * Set time intervals (in seconds) between adding members to prevent account abuse.
@@ -96,7 +108,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Option to automatically leave the group after completing the task.
 * Contact mode determines whether to add members as contacts.
 
-## Bulk Message Sending
+## 09.Bulk Message Sending
 
 * Join the groups and send one-on-one messages to users within the group.
 * You can set a fake message first and later modify it to the real message you want to send.
@@ -111,7 +123,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * (V2) Pin messages to users.
 * (V2) Set message sending quantity per account.
 
-## Automatic Group Chat
+## 10.Automatic Group Chat
 
 * Set up script books based on your needs.
 * Supports text, Markdown, HTML, images, audio, and videos.
@@ -120,7 +132,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Randomly send messages across accounts.
 * After a Telegram update, actively receive Telegram notifications for faster replies.
 
-## Automatic Mass Messaging
+## 11.Automatic Mass Messaging
 
 * Send messages to multiple groups or channels at once.
 * Supports sending a fake message first, followed by the actual message.
@@ -134,7 +146,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * (V2) Supports random group joining and sending.
 * (V3) Displays group name, member count, and joining members.
 
-## Bulk Join Groups / Group Detection
+## 12.Bulk Join Groups / Group Detection
 
 * Supports bulk group joining to increase group activity.
 * Supports random group joining.
@@ -143,7 +155,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Supports evenly distributing groups across accounts (e.g., 500 accounts to join 5000 groups).
 * (V2) Supports bulk joining of bots and clicking /start to increase bot activity.
 
-## Automatic Group Response
+## 13.Automatic Group Response
 
 * Real-time monitoring of group conversations and automatic responses based on keywords.
 * Supports monitoring specific users' messages within a group.
@@ -153,7 +165,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * (V2) Skip responses from admins and bots.
 * (V2) Set response rate for automatic replies.
 
-## Automatic Private Messaging
+## 14.Automatic Private Messaging
 
 * Set up custom reply messages for specific private chat users.
 * Set up automatic replies for all private chat users.
@@ -162,16 +174,16 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * (V2) Monitor all user messages.
 * (V2) Support private messaging initiation based on keywords from group users.
 
-## Automated Marketing
+## 15.Automated Marketing
 
 * Integrates automatic group sending, replies, and private messages into one feature for a smoother marketing experience.
 
-## Boost View Count
+## 16.Boost View Count
 
 * Directly input message links and complete the necessary steps to increase view counts.
 * Supports adding emoji comments.
 
-## Synchronize Groups
+## 17.Synchronize Groups
 
 * Sync content from Telegram groups to your own channels.
 * Supports syncing images, videos, or all content.
@@ -179,7 +191,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Direct-send mode.
 * Set sending frequency.
 
-## Account Filtering
+## 18.Account Filtering
 
 * Support importing text files for filtering accounts.
 * Set thread counts for parallel filtering tasks.
@@ -190,7 +202,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 
  a friend and check existence.
 
-## Account Registration
+## 19.Account Registration
 
 * Built-in multiple SMS platforms like firefox.fun, worldcode.win, twimar.com, etc.
 * Supports text-based SMS login.
@@ -205,7 +217,7 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Built-in Gmail account service (paid).
 * Built-in real machine verification and push detection services (paid).
 
-## Smart Account Nurturing
+## 20.Smart Account Nurturing
 
 * Supports nurturing accounts across multiple groups.
 * Customizable text with emoji tags.
@@ -215,19 +227,19 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Supports random location adjustments.
 * Supports reading and replying to messages to keep accounts active.
 
-## Group Message Collection
+## 21.Group Message Collection
 
 * Supports collecting @xxx username-tagged users.
 * Supports collecting t.me links, http links, tg protocol addresses, and email addresses.
 * Supports custom regex for collection.
 * Collect messages based on keywords.
 
-## Membership Management (Pro)
+## 22.Membership Management (Pro)
 
 * Supports importing bank cards to activate TG membership.
 * Supports membership link activation.
 
-## Bulk Group Management (Pro)
+## 23.Bulk Group Management (Pro)
 
 * Bulk update group/channel/bot information (name, description, location).
 * Bulk mute/unmute groups and clean up unowned group info.
@@ -236,31 +248,31 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Bulk set administrators for groups/channels.
 * Support group gifting and bulk bot updates.
 
-## Bulk Report Spam Messages (Pro)
+## 24.Bulk Report Spam Messages (Pro)
 
 * Report spam messages.
 * Report illegal drugs, impersonation, personal info leaks, violence, child abuse, adult content, and copyright infringement.
 
-## Claim Usernames (Pro)
+## 25.Claim Usernames (Pro)
 
 * Quickly claim lost usernames via this feature.
 * Supports channels, groups, and user formats.
 * Set detection intervals for faster username acquisition.
 
-## Phone Number Rebinding (Pro)
+## 26.Phone Number Rebinding (Pro)
 
 * Rebind phone numbers to new numbers.
 * Supports self-service SMS verification from secondary SMS platforms.
 * Supported platforms: firefox.fun, vak-sms.com, sms-activate.guru, etc.
 
-## Bulk Telegram Member Features (Pro)
+## 27.Bulk Telegram Member Features (Pro)
 
 * Set up welcome messages for members.
 * Set non-working hours messages.
 * Option to clear existing settings.
 * Supports text, Markdown, HTML formats.
 
-## Global System Settings
+## 28.Global System Settings
 
 * Enable automatic login after software startup.
 * Enable cache and simulate real device behavior for registration/login (Beta).
@@ -273,6 +285,6 @@ The Mammoth Marketing Expert provides a powerful suite of tools for managing Tel
 * Set auto-logout and cache clearing after usage.
 * Enable simplified interface logs to reduce message clutter.
 
-## System Proxy
+## 29.System Proxy
 
 * SOCKS5 Proxy, HTTP Proxy, MTPROTO Proxy, API-HTTP Proxy, API-SOCKS Proxy, and others are supported.
